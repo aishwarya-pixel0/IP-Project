@@ -47,8 +47,7 @@ while(True):
             elif ch2==8:
                 print("Let's keep our enviroNment clean and green for the next generation and work one step better every day")
                 print("THANK YOU")                                             
-                print("Project made by: ADITHI NARESH PISSAY AND AISHWARYA.S")
-                print("Section - SR C-120")
+                print("Project made by: AISHWARYA.S")
                 break
 
     elif ch==3:
@@ -73,8 +72,7 @@ while(True):
             elif ch3==5: 
                 print("Let's keep our enviroment clean and green for the next generation and work one step better every day")
                 print("THANK YOU")                                             
-                print("Project made by: ADITHI NARESH PISSAY AND AISHWARYA.S")
-                print("Section - SR C-120")
+                print("Project made by:  AISHWARYA.S")
                 break
     elif ch==4:
          while(True):
@@ -103,8 +101,7 @@ while(True):
         while(True):
             print("Let's keep our enviroment clean and green for the next generation and work one step better every day")
             print("THANK YOU")                                             
-            print("Project made by: ADITHI NARESH PISSAY AND AISHWARYA.S")
-            print("Section - SR C-120")
+            print("Project made by:  AISHWARYA.S")
             break
             
             
