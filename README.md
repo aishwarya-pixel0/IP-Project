@@ -3,7 +3,7 @@
 <h2 style="color🟦;">📌 OVERVIEW</h2>
 <img src="https://www.urbanemissions.info/wp-content/uploads/anime/india_2022_global_extracts_byyear_withpop.gif" alt="analysis" align="right" height="300" width="400">
 <p>
-  The year 2022 has caused drastic changes in the pollution levels owing to the <em>post covid era.</em>
+  The year 2022 has seen drastic changes in the pollution levels owing to the <em>post covid era.</em>
   I developed this mini project to help users guage insights on the various factors influencing pollution levels in India and it's neighbouring countries namely Sri Lanka, China, Nepal and Singapore.
   Created entierly using python programming language.
 </p>
