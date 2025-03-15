@@ -17,7 +17,8 @@ while(True):
     print("6.. Exit")
     ch=int(input("Enter your choice:"))
     if ch==1:
-        project =pd.read_csv(r"C:\Users\sobha\Downloads\Pollution analysis ip project - Sheet1.csv")
+        project = pd.read_csv(r"C:\Users\sobha\Downloads\Pollution analysis ip project - Sheet1.csv")
+        print(project)
     elif ch==2:
         while (True):
             print("Dataframe Statistics Menu")
@@ -47,7 +48,6 @@ while(True):
             elif ch2==8:
                 print("Let's keep our enviroNment clean and green for the next generation and work one step better every day")
                 print("THANK YOU")                                             
-                print("Project made by: AISHWARYA.S")
                 break
 
     elif ch==3:
@@ -72,10 +72,8 @@ while(True):
             elif ch3==5: 
                 print("Let's keep our enviroment clean and green for the next generation and work one step better every day")
                 print("THANK YOU")                                             
-                print("Project made by:  AISHWARYA.S")
                 break
     elif ch==4:
-         while(True):
              print("1.Bar Graph for the year 2022")
              project =pd.read_csv(r"C:\Users\sobha\Downloads\Pollution analysis ip project - Sheet1.csv")
              Country=project["COUNTRY"]
@@ -86,9 +84,8 @@ while(True):
              plt.bar(Country,Value)
              plt.show()
     elif ch==5:
-        while(True):
             print("Line Graph for the year 2022")
-            roject =pd.read_csv(r"C:\Users\sobha\Downloads\Pollution analysis ip project - Sheet1.csv")
+            project =pd.read_csv(r"C:\Users\sobha\Downloads\Pollution analysis ip project - Sheet1.csv")
             Country=project["COUNTRY"]
             Value=project["YEAR"]
             plt.xlabel = ("Countries")
@@ -101,7 +98,6 @@ while(True):
         while(True):
             print("Let's keep our enviroment clean and green for the next generation and work one step better every day")
             print("THANK YOU")                                             
-            print("Project made by:  AISHWARYA.S")
             break
             
             
